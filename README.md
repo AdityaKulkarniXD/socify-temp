@@ -5,3 +5,4 @@
  - Receive alerts
  - Interaction (group chats)
  - Basic social networking features
+
